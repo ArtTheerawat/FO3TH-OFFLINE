@@ -1,0 +1,8 @@
+dist/
+build/
+__pycache__/
+*.spec
+server_log.txt
+config.json
+game_path.txt
+state.json
